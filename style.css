@@ -250,4 +250,14 @@ footer .footer-btn:hover {
     font-size: var(--headingS);
     width: 100%;
   }
+  .hero .box .img {
+    overflow: hidden;
+    position: relative;
+    right: 0;
+    top: 0;
+  }
+  .hero .box .img img {
+    /* height: 100%; */
+    width: 100%;
+  }
 }
