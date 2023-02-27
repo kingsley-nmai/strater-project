@@ -235,6 +235,5 @@ footer .footer-btn:hover {
   .grid-view .box .child-box.colored .content {
     font-size: var(--headingS);
     width: 100%;
-    /* width: 100%; */
   }
 }
